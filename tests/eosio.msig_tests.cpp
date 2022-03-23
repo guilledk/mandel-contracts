@@ -9,6 +9,9 @@
 #include "contracts.hpp"
 #include "test_symbol.hpp"
 
+// TELOS ADDITION
+#include "telos.hpp"
+
 using namespace eosio::testing;
 using namespace eosio;
 using namespace eosio::chain;
